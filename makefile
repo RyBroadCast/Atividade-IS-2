@@ -1,4 +1,4 @@
-bin: IS.c
+bin: main.c
 	gcc $< -o $@
 ,PHONY: run class
 
